@@ -8,4 +8,25 @@ The distributor visits his own customers when clicking on daily customers, and t
 
 For More Details, Do not hesitate to communicate with me at Email: alnbyhbha@gmail.com
 
+App Screens:
+
+![White – 6](https://github.com/BahaaAlnabeeh/Badri_hania-App/assets/42490211/d9348361-3248-42b6-a023-09bae339cd80)
+
+![White – 7](https://github.com/BahaaAlnabeeh/Badri_hania-App/assets/42490211/ec7ace5e-39bf-4b8c-a236-7a04a856028f)
+
+![White – 8](https://github.com/BahaaAlnabeeh/Badri_hania-App/assets/42490211/8028e050-1316-49ce-bb13-c64a2e3eaf5d)
+
+![White – 9](https://github.com/BahaaAlnabeeh/Badri_hania-App/assets/42490211/75aec1d1-f3a8-49f8-8214-35ee799cfb98)
+
+![White – 10](https://github.com/BahaaAlnabeeh/Badri_hania-App/assets/42490211/8a5d9c22-0e6e-42b6-a912-ff572958dbe1)
+
+![White – 11](https://github.com/BahaaAlnabeeh/Badri_hania-App/assets/42490211/2d62f10b-5c88-4f03-bc9a-32a03afbb1e6)
+
+![White – 12](https://github.com/BahaaAlnabeeh/Badri_hania-App/assets/42490211/d292d8e9-df76-46a3-af4a-593e4f710f88)
+
+![White – 13](https://github.com/BahaaAlnabeeh/Badri_hania-App/assets/42490211/8c9de4ef-59cb-47c6-aec3-0641c5067d29)
+
+
+
+
 
