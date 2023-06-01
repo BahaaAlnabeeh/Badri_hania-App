@@ -6,4 +6,6 @@ When login It is determined whether the user is a field customer follow-up emplo
 
 The distributor visits his own customers when clicking on daily customers, and there are also urgent customers, if the customer must be visited urgently because of the presence of An urgent matter, also there are notifications in the application, so if a customer is added, a notification is sent to the private distributor to whom the customer was added to be informed that a new customer has been added, and based on the notification, the customer is automatically stored in the local, and therefore the distributor does not need to synchronize the customers again Also, a notification is sent if a customer is deleted to be deleted from local storage, and there are several other notifications based on which an order is executed, and there are several actions and operations in the application, all of which are stored in the local if there is no internet connection, and when connected, they are executed and sent to the server automatically without the intervention of the distributor.
 
-It Programmed by BloC State manegement
+For More Details, Do not hesitate to communicate with me at Email: alnbyhbha@gmail.com
+
+
