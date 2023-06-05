@@ -1,12 +1,30 @@
 # Badri_hania-App
 
-It is an application for Badri and Hania Company, it was programmed to help the company follow up on its customers and distributors in an advanced and easy way, and the application is built to be used whether there is an Internet connection or not, it synchronizes customers only once when logging in and then they are stored in the local storage and also When it is used without connecting to the Internet, it stores operations until it is connected to the Internet, and then when connected to the Internet, all operations are performed automatically.
+Field follow-up system app 
 
-When login It is determined whether the user is a field customer follow-up employee or a distributor, and then the customers are automatically synchronized from the server, only once upon logging in, and then the customers are automatically saved in the local storage to be accessed without the need to connect to the Internet, so if The user was a customer follow-up employee, so he showed him all the customers on the map, and if the user was a distributor, he showed him his own customers only. 
+It is a professional application for Badri & Haniyeh Company, which was programmed to help the company follow up on its customers and distributors in an advanced way 
 
-The distributor visits his own customers when clicking on daily customers, and there are also urgent customers, if the customer must be visited urgently because of the presence of An urgent matter, also there are notifications in the application, so if a customer is added, a notification is sent to the private distributor to whom the customer was added to be informed that a new customer has been added, and based on the notification, the customer is automatically stored in the local, and therefore the distributor does not need to synchronize the customers again Also, a notification is sent if a customer is deleted to be deleted from local storage, and there are several other notifications based on which an order is executed, and there are several actions and operations in the application, all of which are stored in the local if there is no internet connection, and when connected, they are executed and sent to the server automatically without the intervention of the distributor.
+The application was programmed and developed using the Flutter Framework and linking with APIs, and the application works on both Android and IOS platforms. 
 
-For More Details, Do not hesitate to communicate with me at Email: alnbyhbha@gmail.com
+  * The application has been programmed to be used whether there is an Internet connection or not, as it synchronizes data from the server only once when logging in and then it is stored in the local storage. (using Hive Local Database) 
+
+* When used offline, it stores operations until it is connected to the Internet, then when connected to the Internet, all operations are executed and sent to the server automatically. 
+
+* When logging in, the role of the user is defined if he is a field field follow-up employee, distributor, or system manager, and then the customers are automatically synchronized according to the user's role, so if the user is a field follow-up employee, all customers will be shown to him on the map and he can filter According to each distributor, and it displays its customers only, and if the user is a distributor, it will display only its customers. 
+
+* When performing any operation on a specific customer, it calculates the distance between the customer and the distributor's place, and if it is more than 25 meters, then he does not carry out the operation. Also, the distance is calculated whether there is internet or not. 
+
+* The distributor visits his customers who are supposed to visit them today when clicking on daily customers, and there are also urgent customers who had a problem detected, so they become in the urgent customer's screen to be visited and their problem solved as soon as possible. 
+
+* There are also various notifications in the application, and based on this notification, changes occur in the application and update data in the local storage, so the user does not have to re-synchronize the data again. 
+
+* When solving a problem, a notification arrives that the problem has been resolved, and it arrives with the notification the details of the solution, to be automatically saved in the local storage when the notification arrives, and what is distinguished is that the problem and its solution are not deleted and the customer is removed from urgent visits only after 12 am o’clock, i.e. at the beginning of a new day so that it is an opportunity for the follow-up employee to see the problem and solve it before deleting it. 
+
+* I used Hive Local Database for local storage. 
+
+* And used BloC State Management. 
+
+There are more great features that are not found in any of the other applications. If you would like to know them, contact me at Email: alnbyhbha@gmail.com
 
 App Screens:
 
