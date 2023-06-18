@@ -6,11 +6,11 @@ It is a professional application for Badri & Haniyeh Company, which was programm
 
 The application was programmed and developed using the Flutter Framework and linking with APIs, and the application works on both Android and IOS platforms. 
 
-  * The application has been programmed to be used whether there is an Internet connection or not, as it synchronizes data from the server only once when logging in and then it is stored in the local storage. (using Hive Local Database) 
+  * The application has been programmed to be used whether there is an Internet connection or not, as it synchronizes data from the server only once when logging in and then it is stored in the local storage. (using Hive Local Database)  
 
 * When used offline, it stores operations until it is connected to the Internet, then when connected to the Internet, all operations are executed and sent to the server automatically. 
 
-* When logging in, the role of the user is defined if he is a field field follow-up employee, distributor, or system manager, and then the customers are automatically synchronized according to the user's role, so if the user is a field follow-up employee, all customers will be shown to him on the map and he can filter According to each distributor, and it displays its customers only, and if the user is a distributor, it will display only its customers. 
+* When logging in, the role of the user is defined if he is a field follow-up employee, distributor, or system manager, and then the customers are automatically synchronized according to the user's role, so if the user is a field follow-up employee, all customers will be shown to him on the map and he can filter According to each distributor, and it displays its customers only, and if the user is a distributor, it will display only its customers. 
 
 * When performing any operation on a specific customer, it calculates the distance between the customer and the distributor's place, and if it is more than 25 meters, then he does not carry out the operation. Also, the distance is calculated whether there is internet or not. 
 
