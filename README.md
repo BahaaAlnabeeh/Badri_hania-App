@@ -43,4 +43,3 @@ App Screens:
 ![White – 12](https://github.com/BahaaAlnabeeh/Badri_hania-App/assets/42490211/bc31b53c-ff4a-43e0-9326-87eef7f009e5)
 
 ![White – 13](https://github.com/BahaaAlnabeeh/Badri_hania-App/assets/42490211/77bcefcc-3970-4bd9-ad2d-9308e12ccd5f)
-
