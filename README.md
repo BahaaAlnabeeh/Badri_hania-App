@@ -2,7 +2,7 @@
 
 Field follow-up system app 
 
-It is a professional application for Badri & Haniyeh Company, which was programmed to help the company follow up on its customers and distributors in an advanced way 
+It is a professional application for Badri & Hania Company, which was programmed to help the company follow up on its customers and distributors in an advanced way 
 
 The application was programmed and developed using the Flutter Framework and linking with APIs, and the application works on both Android and IOS platforms. 
 
