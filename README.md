@@ -24,7 +24,7 @@ The application was programmed and developed using the Flutter Framework and lin
 
 * And used BloC State Management. 
 
-There are more great features that are not found in any of the other applications. If you would like to know them, contact me at Email: alnbyhbha@gmail.com
+There are more great features that are not found in any of the other applications. 
 
 App Screens:
 
